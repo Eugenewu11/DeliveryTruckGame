@@ -59,4 +59,5 @@ Delivery Truck Game es un juego casual en el que manejas un vehículo de reparto
 ## Créditos
 
 Proyecto desarrollado como parte del aprendizaje de Unity.
+
 Agencia Devio
